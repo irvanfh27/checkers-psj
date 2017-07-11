@@ -11,30 +11,30 @@ Checker adalah permainan menyenangkan yang mudah dimainkan. Permainan ini muncul
 
 Berikut cara memainkan permainan dan ini serta bagaimana cara memenangkannya : 
 
-* Papan permaian dan persis permainan papancatur. 
+## Papan permaian dan persis permainan papancatur. 
 Terdiri 64 kotak. 32 kotak berwarna gelap atau hitam , 32 kotak berwarna terang atau putih. 
 
-* Tentukan siapa yang akan bermain pertama. 
+## Tentukan siapa yang akan bermain pertama. 
 Biasanya pemain dengan pion berwarna hitam lah yang akan memulai permainan. 
 
-* Tempatkan danatur pion sesuai baris yang ditempati. 
+## Tempatkan danatur pion sesuai baris yang ditempati. 
 Masing-masing pemain menempati 3 baris kotak. Sehingga nantinya akan tersisa dua baris kosong di tengah papan permainan. 
 Seperti ini : 
 
-* Untuk memulai permainan checker. 
+## Untuk memulai permainan checker. 
 
-- Pion hanya boleh bergerak maju, dan tidak boleh bergerak mundur, sehingga arah gerakannya selalu kearah pion lawan 
+* Pion hanya boleh bergerak maju, dan tidak boleh bergerak mundur, sehingga arah gerakannya selalu kearah pion lawan 
 
-- Arah gerakan Pion hanya secara diagonal 
+* Arah gerakan Pion hanya secara diagonal 
 
-- Pion hanya boleh bergerak 1 kali untuk pergerakan yang tidak menangkap pion lawan. 
+* Pion hanya boleh bergerak 1 kali untuk pergerakan yang tidak menangkap pion lawan. 
 
-* Melompati dan menangkap pion lawan. 
+##  Melompati dan menangkap pion lawan. 
 
-- Pemain dapat melompati pion lawan, yaitu bergerak untuk menangkap pion lawan 
+* Pemain dapat melompati pion lawan, yaitu bergerak untuk menangkap pion lawan 
 
-- Jika pion hanya berjarak satukotak diagonal di depan pion lawan, pemain tetap akan bergerak maju untuk menangkap pion tersebut. 
+* Jika pion hanya berjarak satukotak diagonal di depan pion lawan, pemain tetap akan bergerak maju untuk menangkap pion tersebut. 
 
-- Untuk menangkap pion lawan, bergeraklah 2 kotak secara diagonal dan melompati pion lawan. 
+* Untuk menangkap pion lawan, bergeraklah 2 kotak secara diagonal dan melompati pion lawan. 
 
-- Setelah menangkap pion lawan, pemain dapat menyingkirkan pion lawan dari papan permainan. 
+* Setelah menangkap pion lawan, pemain dapat menyingkirkan pion lawan dari papan permainan. 
