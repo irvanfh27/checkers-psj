@@ -40,3 +40,4 @@ Seperti ini :
 * Setelah menangkap pion lawan, pemain dapat menyingkirkan pion lawan dari papan permainan. 
 
 ## Preview
+![screenshot of chekers](https://raw.githubusercontent.com/shifter27/checkers-psj/master/gambar/tampilan.png)  
