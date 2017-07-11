@@ -1,0 +1,2 @@
+# checkers-psj
+Game checkers
