@@ -1,4 +1,5 @@
 # Chekers
+![screenshot of chekers](https://raw.githubusercontent.com/shifter27/checkers-psj/master/gambar/tampilan.png)  
 
 
 ## Fitur
