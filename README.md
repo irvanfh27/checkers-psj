@@ -38,3 +38,5 @@ Seperti ini :
 * Untuk menangkap pion lawan, bergeraklah 2 kotak secara diagonal dan melompati pion lawan. 
 
 * Setelah menangkap pion lawan, pemain dapat menyingkirkan pion lawan dari papan permainan. 
+
+## Preview
