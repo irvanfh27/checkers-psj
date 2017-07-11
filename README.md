@@ -41,3 +41,6 @@ Seperti ini :
 
 ## Preview
 ![screenshot of chekers](https://raw.githubusercontent.com/shifter27/checkers-psj/master/gambar/tampilan.png)  
+
+## Download
+[Download Disini](https://github.com/shifter27/checkers-psj/releases/tag/v1) Silahkan Download Chekers.exe
