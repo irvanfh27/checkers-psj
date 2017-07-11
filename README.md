@@ -42,10 +42,14 @@ Seperti ini :
 
 ## Preview Cara Menjalakan Game Ini
 * Halaman Home
+
 ![screenshot of chekers](https://raw.githubusercontent.com/shifter27/checkers-psj/master/gambar/home.png)
 * Klik Host Terlebih Dahulu Untuk Servernya
 ![screenshot of chekers](https://raw.githubusercontent.com/shifter27/checkers-psj/master/gambar/host.png)
 * Setelah Itu di Client Ke 2 Klik Connect dan masukan IP Host bila bermain 2 Client/PC
 ![screenshot of chekers](https://raw.githubusercontent.com/shifter27/checkers-psj/master/gambar/connect.png)
+* Selamat Bermain
+![screenshot of chekers](https://raw.githubusercontent.com/shifter27/checkers-psj/master/gambar/tampilan.png)  
+
 ## Download
 [Download Disini](https://github.com/shifter27/checkers-psj/releases/tag/v1) Silahkan Download Chekers.exe
