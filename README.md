@@ -12,7 +12,7 @@ Checker adalah permainan menyenangkan yang mudah dimainkan. Permainan ini muncul
 
 Berikut cara memainkan permainan dan ini serta bagaimana cara memenangkannya : 
 
-## Papan permaian dan persis permainan papancatur. 
+## Papan permaian dan persis permainan papan catur. 
 Terdiri 64 kotak. 32 kotak berwarna gelap atau hitam , 32 kotak berwarna terang atau putih. 
 
 ## Tentukan siapa yang akan bermain pertama. 
