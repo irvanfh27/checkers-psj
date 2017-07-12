@@ -21,6 +21,7 @@ Biasanya pemain dengan pion berwarna hitam lah yang akan memulai permainan.
 ## Tempatkan danatur pion sesuai baris yang ditempati. 
 Masing-masing pemain menempati 3 baris kotak. Sehingga nantinya akan tersisa dua baris kosong di tengah papan permainan. 
 Seperti ini : 
+
 ![screenshot of chekers](https://raw.githubusercontent.com/shifter27/checkers-psj/master/gambar/tampilan.png)  
 
 ## Untuk memulai permainan checker. 
