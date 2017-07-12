@@ -59,6 +59,11 @@ Seperti ini :
 
 ![screenshot of chekers](https://raw.githubusercontent.com/shifter27/checkers-psj/master/gambar/tampilan.png)  
 
+## NEW UPDATE FITUR CHAT
+*Tampilan Baru
+
+![screenshot of chekers](https://raw.githubusercontent.com/shifter27/checkers-psj/master/gambar/new_fitur.png)
+
 ## Download
 
 [Download Disini](https://github.com/shifter27/checkers-psj/releases/tag/v2) Untuk Download Gamenya.
